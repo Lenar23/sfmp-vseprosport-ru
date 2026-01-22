@@ -1,0 +1,9 @@
+# idea
+/.idea/
+
+# Managed by composer
+/vendor/
+/composer.lock/
+
+# Errors logs
+/tmp/

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "imangazaliev/didom": "^2.0",
+        "guzzlehttp/guzzle": "^7.9",
+      "ext-dom": "*",
+      "ext-pdo": "*"
+    }
+}
